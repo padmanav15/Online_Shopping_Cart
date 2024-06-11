@@ -21,9 +21,6 @@
 			<property name="hibernate.hbm2ddl.auto" value="update" />
 			<property name="hibernate.dialect"
 				value="org.hibernate.dialect.MySQL8Dialect" /> <!-- for convert java datatype in to database datatype -->
-
-
-
 		</properties>
 	</persistence-unit>
 </persistence>
